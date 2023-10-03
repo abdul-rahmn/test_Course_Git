@@ -56,5 +56,5 @@ Types trained on: 14 - 15.6 - 17.3)). </h2>
 
 <h4> FrontEnd: The Flutter application, which represents the user interface, receives the data and then sends it to the API, where it requests the expected value from the API after it finishes working. </h4>
 <h4> BackEnd: The API function captures the values from the request coming from the interface and then passes them to the algorithm function. </h4>
-<h4> Algoritm: The algorithm function processes the input data (converting it to the corresponding numbers), then passes it to the model previously saved in a separate file, calculates the expected value, and then returns it to the API function, which returns it to the user interface. </h4>
+<h3> Algoritm:</h3><h4> The algorithm function processes the input data (converting it to the corresponding numbers), then passes it to the model previously saved in a separate file, calculates the expected value, and then returns it to the API function, which returns it to the user interface. </h4>
 <h5> - Note: The training part and the model were created in a separate file, where the model is saved in an external file (so that we do not have to train for each request). </h5>
