@@ -55,23 +55,23 @@ Types trained on: 14 - 15.6 - 17.3)). </h4>
 
 
 <h1> Technologies used in the project </h1>
-<h4> FrontEnd:</h4> 
+<h3> FrontEnd:</h3> 
     <h4>Flutter environment (mobile app) was used in the project as the user interface. </h3>
-<h4> BackEnd:</h4> 
+<h3> BackEnd:</h3> 
     <h4>Python language was used as BackEnd. </h3>
-<h4> API:</h4>
+<h3> API:</h3>
     <h4>Fast API technology was used to connect the mobile application to the algorithm written in Python. </h4>
-<h4> Database:</h4>
+<h3> Database:</h3>
     <h4>CSV files were used as databases. </h4>
 
 
 
 <h1> Structure </h1>
 
-<h4> FrontEnd:</h4> 
+<h3> FrontEnd:</h3> 
     <h4>The Flutter application, which represents the user interface, receives the data and then sends it to the API, where it requests the expected value from the API after it finishes working. </h4>
-<h4> BackEnd:</h4>
+<h3> BackEnd:</h3>
     <h4>The API function captures the values from the request coming from the interface and then passes them to the algorithm function. </h4>
-<h4> Algoritm:</h4>
+<h3> Algoritm:</h3>
     <h4> The algorithm function processes the input data (converting it to the corresponding numbers), then passes it to the model previously saved in a separate file, calculates the expected value, and then returns it to the API function, which returns it to the user interface. </h4>
     <h5> - Note: The training part and the model were created in a separate file, where the model is saved in an external file (so that we do not have to train for each request). </h5>
