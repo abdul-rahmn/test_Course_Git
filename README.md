@@ -4,8 +4,8 @@
 ------------------------------------------------------------
 <h1> Features selected: </h1>
 --------
-<h2> Brand: The brand that manufactures the laptop from these companies,
-(ASUS - ACER - DELL - HP - LENOVO - MSI) This feature was placed in the data collection form because it is an essential feature (but it was excluded from the training) because it does not affect the price of the laptop. </h2>
+<h4> Brand: The brand that manufactures the laptop from these companies,
+(ASUS - ACER - DELL - HP - LENOVO - MSI) This feature was placed in the data collection form because it is an essential feature (but it was excluded from the training) because it does not affect the price of the laptop. </h4>
 
 --------
 <h2> 2. State: The condition of the laptop, which is represented by one of two states (new/used) and is one of the features that significantly affects the price of the laptop. </h2>
