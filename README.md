@@ -79,6 +79,6 @@ Types trained on: 14 - 15.6 - 17.3)). </h4>
     <h5> - Note: The training part and the model were created in a separate file, where the model is saved in an external file (so that we do not have to train for each request). </h5>
 
 
-<div width:200>![1](https://github.com/abdul-rahmn/test_Course_Git/assets/111734901/3d957a1f-d2b7-4a02-bfb7-0216e073ebee)</div>
+<div width=200>![1](https://github.com/abdul-rahmn/test_Course_Git/assets/111734901/3d957a1f-d2b7-4a02-bfb7-0216e073ebee)</div>
 
 ![4](https://github.com/abdul-rahmn/test_Course_Git/assets/111734901/17978fb7-6369-4a90-9a38-de424c65b926)
