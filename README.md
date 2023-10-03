@@ -61,4 +61,4 @@ Types trained on: 14 - 15.6 - 17.3)). </h2>
 <h2> BackEnd: Python language was used as BackEnd. </h2>
 
 --------
-<h5> API: Fast API technology was used to connect the mobile application to the algorithm written in Python. </h5>
+<h4> API: Fast API technology was used to connect the mobile application to the algorithm written in Python. </h4>
