@@ -64,7 +64,9 @@ Types trained on: 14 - 15.6 - 17.3)). </h4>
 <h3> Database:</h3>
     <h4>CSV files were used as databases. </h4>
 
-
+<h1>The algorithm used to train the model</h1>
+<h3>LinearRegression:</h3>
+    <h4>The linear regression algorithm is one of the most famous algorithms in the field of machine learning and data analysis. Linear regression is used to determine the relationship between two or more variables by finding the line that best represents the relationship between them. This line is used to predict the value of a variable based on other values of other variables.</h4>
 
 <h1> Structure </h1>
 
