@@ -1,7 +1,6 @@
 <h1>Project goal and model-specific features</h1>
 
 <h3> Project goal: It is a project whose goal is to predict the price of a laptop by entering the features (specifications) of this laptop, where the application estimates the price using a pre-trained learning machine model using various real data about the specifications and prices of the laptop. </h3>
-------------------------------------------------------------
 
 <h1> Features selected: </h1>
 
